@@ -1,2 +1,1 @@
-oracle
 nomhiro1204/oracle21c
